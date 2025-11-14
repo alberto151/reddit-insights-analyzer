@@ -1,0 +1,5 @@
+{
+    "api_key": "your-api-key",
+    "reddit_user_agent": "your-reddit-user-agent",
+    "output_format": "json"
+}
